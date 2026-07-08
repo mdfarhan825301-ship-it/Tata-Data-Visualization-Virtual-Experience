@@ -50,7 +50,7 @@ Retail-Analytics-Dashboard-Tableau
 
 ### Executive Dashboard
 
-![Dashboard](Images/Dashboard%20Overview.png)
+![Dashboard](https://drive.google.com/file/d/1u1qU6aS0f323k2YMZsolAv4WZmYFNL6O/view?usp=sharing)
 
 ---
 
