@@ -1,153 +1,78 @@
-# 📊 Retail Analytics Dashboard | Tata Data Visualization Virtual Experience
+# Retail Analytics Dashboard - Tata Data Visualization Virtual Experience
 
-## 📌 Project Overview
+## Project overview
 
-This project was completed as part of the **Tata Data Visualization: Empowering Business with Effective Insights Job Simulation** on Forage.
+This project was part of the Tata Data Visualization: Empowering Business with Effective Insights job simulation on Forage. The goal was to take retail sales data and turn it into an interactive Tableau dashboard that executives could actually use to keep track of business performance, spot high-value customers, and back up strategic decisions with real visual analytics instead of gut feel.
 
-The objective was to analyze retail sales data and build an interactive Tableau dashboard that enables executives to monitor business performance, identify high-value customers, and support strategic decision-making through visual analytics.
+## Business questions this answers
 
----
+- What do monthly revenue trends look like for 2011?
+- Which countries are generating the most revenue?
+- What does customer purchasing behavior look like?
+- Which countries have high demand once you exclude the UK?
 
-## 🎯 Business Objectives
+## Tools I used
 
-The dashboard answers four key business questions:
+Tableau Desktop and Microsoft Excel, along with general data cleaning, visualization, and business analytics work.
 
-- Identify monthly revenue trends for the year 2011.
-- Determine the countries generating the highest revenue.
-- Analyze customer purchasing behavior.
-- Identify high-demand countries excluding the United Kingdom.
-
----
-
-## 🛠 Tech Stack
-
-- Tableau Desktop
-- Microsoft Excel
-- Data Cleaning
-- Data Visualization
-- Business Analytics
-
----
-
-## 📂 Repository Structure
+## Repo structure
 
 ```
 Retail-Analytics-Dashboard-Tableau
-│
-├── Dashboard/
-├── Dataset/
-├── Documentation/
-├── Images/
-├── Presentation/
-└── README.md
+    Dashboard/
+    Dataset/
+    Documentation/
+    Images/
+    Presentation/
+    README.md
 ```
 
----
+## Dashboard preview
 
-## 📊 Dashboard Preview
+Screenshots of the dashboard are in the Images folder.
 
-> Add dashboard screenshots inside the Images folder.
+Executive Dashboard: https://drive.google.com/file/d/1u1qU6aS0f323k2YMZsolAv4WZmYFNL6O/view?usp=sharing
 
-### Executive Dashboard
+## What the data showed
 
-![Dashboard](https://drive.google.com/file/d/1u1qU6aS0f323k2YMZsolAv4WZmYFNL6O/view?usp=sharing)
+**Revenue trend.** Revenue peaks in November, and Q4 overall sees a significant seasonal jump. January, by comparison, is one of the slower months.
 
----
+**Country performance.** Outside the UK, the Netherlands generated the highest revenue, with Ireland and Germany close behind as the next strongest markets.
 
-## 📈 Key Insights
+**Customer behavior.** A small group of top customers accounted for a disproportionate share of total revenue, and most of the business value came from repeat customers rather than one-time buyers.
 
-### Revenue Trend
+**Market opportunity.** A handful of European countries showed strong product demand and look like they have room to grow further.
 
-- Revenue peaks during November.
-- Seasonal sales increase significantly during Q4.
-- January records comparatively lower sales.
+## Files included
 
-### Country Performance
-
-- Netherlands generated the highest revenue outside the UK.
-- Ireland and Germany were among the strongest markets.
-
-### Customer Analysis
-
-- Top customers contributed a significant portion of total revenue.
-- Repeat customers generated the majority of business value.
-
-### Market Opportunity
-
-- Several European countries showed high product demand with growth potential.
-
----
-
-## 📁 Files Included
-
-| Folder | Description |
-|---------|-------------|
-| Dashboard | Tableau Workbook (.twbx) |
+| Folder | What's in it |
+|---|---|
+| Dashboard | Tableau workbook (.twbx) |
 | Dataset | Raw dataset used |
 | Images | Dashboard screenshots |
 | Documentation | Business questions and insights |
 | Presentation | Project walkthrough video |
 
----
+## Skills this project involved
 
-## 🚀 Skills Demonstrated
+Business intelligence, data visualization, dashboard design, retail analytics, KPI reporting, executive reporting, data cleaning, storytelling with data, and Tableau.
 
-- Business Intelligence
-- Data Visualization
-- Dashboard Design
-- Retail Analytics
-- KPI Reporting
-- Executive Reporting
-- Data Cleaning
-- Storytelling with Data
-- Tableau
+## Project walkthrough
 
----
+The full presentation is available here: Presentation/Prsesentation on 4 Ques(Tata).mp4
 
-## 📽 Project Walkthrough
+## KPIs tracked
 
-Watch the complete presentation:
+Total revenue, monthly sales trend, revenue by country, top customers, demand by country, and sales distribution.
 
-📂 Presentation/Prsesentation on 4 Ques(Tata).mp4
+## What I'd add next
 
----
+Dynamic parameter controls, a profit analysis layer, customer segmentation, forecasting, geographic drill-down, and inventory analytics.
 
-## 📌 Business KPIs
+## About me
 
-- Total Revenue
-- Monthly Sales Trend
-- Revenue by Country
-- Top Customers
-- Demand by Country
-- Sales Distribution
-
----
-
-## 💡 Future Improvements
-
-- Dynamic parameter controls
-- Profit analysis
-- Customer segmentation
-- Forecasting
-- Geographic drill-down
-- Inventory analytics
-
----
-
-## 👨‍💻 Author
-
-**Md Farhan**
-
-MBA (Finance & HR)
-
-- Tableau
-- SQL
-- Power BI
-- Excel
-- Business Analytics
+I'm Md Farhan, MBA in Finance and HR. Skills: Tableau, SQL, Power BI, Excel, and business analytics.
 
 LinkedIn: www.linkedin.com/in/md-farhan-6a15b0200
 
----
-
-⭐ If you found this project helpful, consider giving it a star!
+If this project was useful to you, feel free to star the repo.
